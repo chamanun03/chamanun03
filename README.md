@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Chamanun
 
-<!--
-**chamanun03/chamanun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year Statistical Data Science and Analytics student at KMUTNB
 
-Here are some ideas to get you started:
+**Skills:** Python, SQL, MySQL, HTML/CSS/JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects:**
+- [RFM Customer Segmentation](https://github.com/chamanun03/rfm-customer-segmentation) — SQL, Data Cleaning, Business Analysis
+- [Telco Customer Churn Prediction](https://github.com/chamanun03/telecom-customer-churn) — Python, ML, Model Comparison
+
+**Resume:** [Download PDF](./Resume.pdf)
+
+**Contact:** chamanun.phonnak@gmail.com
+phone number - 0953412716
